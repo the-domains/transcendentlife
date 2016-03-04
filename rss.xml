@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[transcendentLIFE]]></title>
         <description><![CDATA[transcendentLIFE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transcendentlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:05:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:05:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transcendentlife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Costa Rica vs Uruguay]]></title>
+            <description><![CDATA[<article><h1>Costa Rica vs Uruguay</h1><p>I have always been a fan of sporting events. Attending games with my family and friends. From the insane fans to the dazzling theatrics, sports have always provided an exciting experience. It can bring people from varying regions, races, and creeds together for a common purpose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07efd1ae2c15c7a946b676ca0ff8b306d374ec27.jpg"></article>]]></description>
+            <link>https://michaelbdewitt.wordpress.com/2014/06/16/costa-rica-vs-uruguay/</link>
+            <guid isPermaLink="false">513db5b1-a449-4a0a-a1c8-becc93e97d2f</guid>
+            <pubDate>Fri, 04 Mar 2016 21:05:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not Goodbye, See You Soon]]></title>
             <description><![CDATA[<article><h1>Not Goodbye, See You Soon</h1><p>My time in Costa Rica had to end at some point. I spent 24 eventful days there. Yesterday was the day that I returned home to California. It is always difficult to say goodbye. Heavy hearts abound. My father. My friends. My mosquitos. Fear not all, this is not my last flight through Liberia International Airport....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2032e147f78b98532d9759b6c3c7dfe463b901cd.jpg"></article>]]></description>

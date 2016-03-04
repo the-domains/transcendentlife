@@ -1,28 +1,40 @@
-name: transcendentLIFE
 favicon: null
-layout_spectrum: 0.8515207013115287
-typography_spectrum: 0.8290806917939335
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: transcendentLIFE
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9216039024759084
+  brandStrength: 0.8526243953965604
+  rhythmicContrast: 0.4229940767399967
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8526243953965604
   lightness: 0.07157792942598462
-  saturation: 0.9216039024759084
-  rhythmicContrast: 0.42299407673999667
-purpose: []
+typography_spectrum: 0.8290806917939335
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null

@@ -4,7 +4,7 @@
         <description><![CDATA[transcendentLIFE]]></description>
         <link>https://thegrid.ai/transcendentlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 00:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:40:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transcendentlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lucky Man]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/transcendentlife/8c97453b-adfb-434e-af58-57f45f2427b0/index.html</link>
             <guid isPermaLink="false">8c97453b-adfb-434e-af58-57f45f2427b0</guid>
             <pubDate>Sat, 05 Mar 2016 00:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f7e8a1-8f1a-4efe-8b95-2c31dd739ae9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/transcendentlife/welcome/index.html</link>
+            <guid isPermaLink="false">3d7bbe3a-1168-4408-89cf-df830191b358</guid>
+            <pubDate>Sat, 05 Mar 2016 00:38:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
